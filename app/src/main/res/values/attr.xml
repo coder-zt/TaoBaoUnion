@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SettingItemsView">
+        <attr name="attr_name" format="string"/>
+        <attr name="horizontal_padding" format="dimension"/>
+        <attr name="attr_name_width" format="dimension"/>
+        <attr name="attr_item_width" format="dimension"/>
+        <attr name="align_left" format="boolean"/>
+        <attr name="attr_name_color" format="color"/>
+        <attr name="attr_item_text_normal_color" format="color"/>
+        <attr name="attr_item_text_selected_color" format="color"/>
+        <attr name="attr_item_normal_background" format="reference"/>
+        <attr name="attr_item_selected_background" format="reference"/>
+        <attr name="attr_item_text_size" format="dimension"/>
+        <attr name="attr_name_text_size" format="dimension"/>
+    </declare-styleable>
+</resources>
